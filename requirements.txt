@@ -8,7 +8,7 @@ scikit-image
 timm==0.4.12
 einops
 icecream
-setuptools==59.5.0
+setuptools
 wandb
 ftfy 
 regex
