@@ -17,3 +17,4 @@ diffdist
 pytorch_lightning
 tqdm
 gradio==3.1.4
+backoff
